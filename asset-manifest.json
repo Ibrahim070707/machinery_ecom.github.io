@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/machinery_ecom.github.io/static/css/main.a9e07889.css",
-    "main.js": "/machinery_ecom.github.io/static/js/main.8a31545b.js",
+    "main.css": "/machinery_ecom.github.io/static/css/main.fc32adbd.css",
+    "main.js": "/machinery_ecom.github.io/static/js/main.3170995c.js",
     "static/js/787.e07d1566.chunk.js": "/machinery_ecom.github.io/static/js/787.e07d1566.chunk.js",
     "index.html": "/machinery_ecom.github.io/index.html",
-    "main.a9e07889.css.map": "/machinery_ecom.github.io/static/css/main.a9e07889.css.map",
-    "main.8a31545b.js.map": "/machinery_ecom.github.io/static/js/main.8a31545b.js.map",
+    "main.fc32adbd.css.map": "/machinery_ecom.github.io/static/css/main.fc32adbd.css.map",
+    "main.3170995c.js.map": "/machinery_ecom.github.io/static/js/main.3170995c.js.map",
     "787.e07d1566.chunk.js.map": "/machinery_ecom.github.io/static/js/787.e07d1566.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9e07889.css",
-    "static/js/main.8a31545b.js"
+    "static/css/main.fc32adbd.css",
+    "static/js/main.3170995c.js"
   ]
 }
